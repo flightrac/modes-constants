@@ -3,7 +3,7 @@
 Constants to be used with other Mode-S modules
 
 
-[![Build Status](https://travis-ci.org/foliveira/modes-constants.png)](https://travis-ci.org/foliveira/modes-constants)
+[![Build Status](https://travis-ci.org/flightrac/modes-constants.png)](https://travis-ci.org/flightrac/modes-constants)
 
 
 [![npm package](https://nodei.co/npm/modes-constants.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/modes-constants/)
